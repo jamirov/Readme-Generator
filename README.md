@@ -1,6 +1,6 @@
 # Readme Generator ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 ## Description 
-* It creates a dynamic readme file using teminal commainds.
+* This is a command-line application that runs with Node.js that dynamically generates a READMEmd file based on input about your project. .
 ## Table of Contents
 
 * [Installation](#installation)
@@ -9,12 +9,12 @@
 * [License](#license)
 
 ## Installation
-* npm install.
+* To generate your own README, first run npm install in order to install the following npm package dependencies as specified in the package.json:.
 ## Usage
-* It can be used to create readme.md file promptly.
+* When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions about your GitHub and about your project..
 ## Credits
 
-* I used npm inquirer for this project.
+* The application also utilizes, as much as possible, syntax and paradigms introduced in ES6 and beyond, including arrow functions, const, let, template literals, and the inquirer, and fs.writeFile promises.
 
 ## License
 
@@ -23,5 +23,5 @@
 
 ## Questions
 
-If you have questions contact me on [GitHub](jamirov.github.io) or contact Jasur at ajasur@gmail.com.
+If you have questions contact me on [GitHub](https://jamirov.github.io/) or contact Jasur at ajasur@gmail.com.
 
