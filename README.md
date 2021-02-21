@@ -12,6 +12,16 @@
 * To generate your own README, first run npm install in order to install the following npm package dependencies as specified in the package.json:.
 ## Usage
 * When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions about your GitHub and about your project..
+
+## Demo video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4TaGrdNMONI
+" target="_blank"><img src="http://img.youtube.com/vi/4TaGrdNMONI/0.jpg" 
+alt="Readme Generator Demo" width="240" height="180" border="10" /></a>
+
+
+
+
 ## Credits
 
 * The application also utilizes, as much as possible, syntax and paradigms introduced in ES6 and beyond, including arrow functions, const, let, template literals, and the inquirer, and fs.writeFile promises.

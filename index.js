@@ -90,13 +90,10 @@ const string =
 
 ## Questions
 
-If you have questions contact me on [GitHub](${response.githublink}) or contact ${response.userName} at ${response.email}.
-
-`
+If you have questions contact me on [GitHub](${response.githublink}) or contact ${response.userName} at ${response.email}.`
     fs.writeFile('README.md', string, (err) =>
     err ? console.error(err) : console.log('README Generated!')
     );
-  
 });
 }
 // Function call to initialize app
